@@ -1,3 +1,4 @@
+Mac 文本文件预览工具，按一下空格可以看预览
 # QuicklookStephen
 
 QLStephen is a QuickLook plugin that lets you view plain text files without a file extension. Files like:
